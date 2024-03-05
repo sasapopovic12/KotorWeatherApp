@@ -17,7 +17,8 @@ class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
 
     val CITY: String = "Kotor, ME"
-    val API: String = "85199fe5d89f912d1cc385dfc3413e1b"
+    /*API KEY HERE*/
+    val API: String = "COPY API KEY HERE"
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
